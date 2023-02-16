@@ -12,24 +12,23 @@ export const products = [
     name: 'OPPO',
     price: 2000,
     description: 'A large phone with one of the best screens',
-    stock: 3
+    stock: 3,
   },
   {
     id: 2,
     name: 'Apple',
     price: 6909,
     description: 'A great phone with one of the best cameras',
-    stock: 1
+    stock: 1,
   },
   {
     id: 3,
     name: 'Xiami',
     price: 2990,
-    description: '',
-    stock: 3
-  }
+    description: ' A large phone with one of the best screens',
+    stock: 3,
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
